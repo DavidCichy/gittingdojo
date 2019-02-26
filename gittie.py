@@ -10,7 +10,6 @@ def add(a, b):
     c = a + b
     return c
 
-def shout():
-    print('AAAAAAAAA!!!!!')
 
-    
+def shout():
+    print("Shout! Shout! Living on loud!")
